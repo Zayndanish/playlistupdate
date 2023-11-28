@@ -2,17 +2,18 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"                                        
 
-#EXTM3U billed-msg="BUY SHOPEE DI ZAYANZACK SAHAJA- BELI DI SHOPEE LAIN ID BANNED"
+#EXTM3U billed-msg="BUY SHOPEE DI ZAYANZACK SAHAJA - SHOPEE LAIN AUTO BANNED"
+
 
 
 ################### GV LIVE ASTRO #######################
 
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title=" GV (LIVE ONLY)" group-logo="https://i.ibb.co/44fKfwk/IMG-6070.jpg" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Server 1 (Live Sahaja)
+#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="ALL STAR GEGAR VAGANZA (LIVE ONLY)" group-logo="https://i.ibb.co/44fKfwk/IMG-6070.jpg" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Server 1 (Live Sahaja)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="ALL STAR GEGAR VAGANZA (LIVE ONLY)" group-logo="https://i.ibb.co/5KcwyR7/4-C4-E513-A-DCCD-4-FD1-8315-070-BD431-FFF8.jpg" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Server 2 (Live Sahaja)
+#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="GEGAR VAGANZA (LIVE ONLY)" group-logo="https://i.ibb.co/44fKfwk/IMG-6070.jpg" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Server 2 (Live Sahaja)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
@@ -1555,7 +1556,7 @@ https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KMxTZ99mbES+Q4LmSvZNVw", "kid":"YHt9IlZcS8O5X/bDPOZUJQ" } ], "type":"temporary" }
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="" tvg-chno="" https://i.ibb.co/44fKfwk/IMG-6070.jpg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",Channel 5 
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://i.ibb.co/YN6ph05/photo-6082203712031406447-y.jpg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",Channel 5 
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
