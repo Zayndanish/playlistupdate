@@ -4,24 +4,10 @@
 
 #EXTM3U billed-msg="BUY SHOPEE DI ZAYANZACK SAHAJA- BELI DI SHOPEE LAIN ID BANNED"
 
-############## PRIMA#############
-
-#EXTINF:-1 group-title="PRIMA (OFFLINE)" group-logo="https://i.ibb.co/44fKfwk/IMG-6070.jpg" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria 1
-http://foctv.xyz:25510/live/%40azamcekman/Ti0NKDy655/1018.
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="WARNA RIA CITRA PRIMA (OFFLINE)" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Prima.png",105 ASTRO PRIMA'
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
-
-
-
 
 ################### GV LIVE ASTRO #######################
 
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="ALL STAR GEGAR VAGANZA (LIVE ONLY)" group-logo="https://i.ibb.co/44fKfwk/IMG-6070.jpg" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Server 1 (Live Sahaja)
+#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title=" GV (LIVE ONLY)" group-logo="https://i.ibb.co/44fKfwk/IMG-6070.jpg" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Server 1 (Live Sahaja)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
